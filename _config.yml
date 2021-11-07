@@ -9,12 +9,12 @@
 #
 # url is site domain, full URL to the production location of your collection
 # on GitHub Pages follows the pattern username.github.io
-url: Nayomieee.github.io 
+url: https://github.com/Nayomieee 
 # baseurl is path to location on the domain if necessary e.g. /digital/hjccc
 # on GitHub Pages it is your github repository's name prefixed with a /
 baseurl: /Awasona-s-Art 
 # location of code, the full url to your github repository
-source-code: https://Nayomieee.github.io/Awasona-s-Art/
+source-code:  https://github.com/Nayomieee/Awasona-s-Art
 
 ##########
 # SITE SETTINGS
